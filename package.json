@@ -1,0 +1,22 @@
+{
+  "name": "personal_assets",
+  "version": "1.0.0",
+  "description": "个人静态资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkkk0/personal_assets.git"
+  },
+  "keywords": [
+    "assets"
+  ],
+  "author": "linkkk0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkkk0/personal_assets/issues"
+  },
+  "homepage": "https://github.com/linkkk0/personal_assets#readme"
+}
